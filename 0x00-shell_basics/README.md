@@ -1,1 +1,1 @@
-My readme for task 0
+My readme for shell basics
