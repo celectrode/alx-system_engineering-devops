@@ -1,1 +1,1 @@
-My readme for system engineering devops
+About Bash projects
